@@ -1,2 +1,2 @@
 # codsoft_task1
-To-do Calculator
+To-do List using Python Tkinter
